@@ -1,36 +1,19 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# My Project (ハッカソン開発アプリ)
 
-## Getting Started
+## 概要
+ハッカソンにてチームで開発したWebアプリケーションです。
+未経験の状態から、生成AIを技術パートナーとして活用し、短期間でプロダクトを形にすることに挑戦しました。
 
-First, run the development server:
+## 使用技術 (Tech Stack)
+Cascade社でのインターンを志望するにあたり、以下のモダンな技術スタックに挑戦しています。
+- **Frontend**: Next.js, TypeScript
+- **Backend**: Firebase (Authentication, Firestore)
+- **Styling**: Tailwind CSS
+- **AI Tool**: ChatGPT (ロジックの理解およびデバッグのサポートとして活用)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 開発において意識したこと
+- **AIとの共同開発**: 開発当時は知識がゼロの状態でしたが、AIが出力したコードの背後にあるロジックを納得するまで問い直し、周辺知識を含めてリサーチしながら実装を進めました。
+- **技術スタックの選定**: 業界で標準的に使われているNext.jsやFirebaseに触れることで、Web開発の全体像を掴むことを目標としました。
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 今後の課題と目標
+現在はAIのサポートを借りて実装している部分が多いため、実務を通じてこれらの技術を自力で詳細まで制御できるようになることが目標です。持ち前の向上心を活かし、最速でスキルを磨いていきたいと考えています。
